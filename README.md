@@ -1,6 +1,6 @@
 🧠 To-Do List (Python)
 
-Projeto simples de lista de tarefas no terminal.
+Projeto simples desenvolvido para praticar Python de lista de tarefas no terminal.
 
 🚀 Objetivo
 
